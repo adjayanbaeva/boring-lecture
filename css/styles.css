@@ -1,0 +1,14 @@
+.dark-background {
+  background-color: black;
+  color: beige;
+}
+
+.light-background {
+  background-color: beige;
+  color: black;
+}
+
+.paragraph-decoration {
+  border-style: solid;
+  background-color: #ADFF2F;
+}
